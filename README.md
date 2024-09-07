@@ -1,3 +1,2 @@
 # data-sourcing-challenge
-sry
-absolute nightmare code
+updated and functional version of module 6 assignment
